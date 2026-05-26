@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="logo.svg" alt="sfg-labs" width="320" height="80" />
+<img src="https://raw.githubusercontent.com/sfg-labs/.github/main/profile/logo.svg" alt="sfg-labs" width="320" height="80" />
 
 <br/>
 
