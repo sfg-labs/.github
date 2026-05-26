@@ -1,6 +1,8 @@
 <div align="center">
 
-# sfg-labs · Faith &amp; Gamble IT
+<img src="logo.svg" alt="sfg-labs" width="320" height="80" />
+
+<br/>
 
 **Building India-first SaaS — compliance, HR, POS, and AI tools that work in Hindi and at Indian scale.**
 
